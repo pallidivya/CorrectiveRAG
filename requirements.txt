@@ -11,3 +11,4 @@ python-dotenv
 fastapi
 uvicorn
 streamlit
+langchain-groq==1.1.3
